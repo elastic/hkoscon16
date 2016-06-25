@@ -19,7 +19,7 @@ data you find.
 
 # Slides
 
-* Coming soon.
+* [here](slides.pdf)
 
 # Datasets
 
